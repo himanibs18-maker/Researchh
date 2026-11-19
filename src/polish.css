@@ -1,0 +1,51 @@
+.sample-file-link {
+  margin-top: 12px;
+  font-size: 11px;
+}
+.sample-download {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+.brain-figure img {
+  opacity: 0.83;
+  filter: grayscale(1) contrast(1.12);
+}
+.hero-eyebrow {
+  letter-spacing: 1.15px;
+}
+.paper-copy {
+  line-height: 1.55;
+}
+.paper-mast {
+  font-weight: 500;
+}
+.research-paper {
+  background: linear-gradient(100deg, #fff 0%, #fdfcfb 100%);
+}
+@media (min-width: 1200px) {
+  .art-board {
+    transform: translate(-50%, -50%) scale(1.045);
+  }
+  .hero-grid {
+    min-height: 523px;
+  }
+  .hero-copy > p {
+    max-width: 445px;
+  }
+  .hero-copy {
+    padding: 42px 0 40px;
+  }
+  .hero h1 {
+    margin: 21px 0 17px;
+  }
+  .hero-buttons {
+    margin-top: 25px;
+  }
+}
+@media (min-width: 1550px) {
+  .art-board {
+    transform: translate(-50%, -50%) scale(1.12);
+  }
+}

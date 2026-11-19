@@ -1,0 +1,115 @@
+/* Supplemental features use the original research.css palette and components.
+   Dashboard typography, cards, page spacing and navigation have no overrides here. */
+.guest-access {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  margin-top: 14px;
+}
+.publication-details,
+.source-record-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 5px 12px;
+}
+.publication-details {
+  margin-top: 5px;
+}
+.publication-details b {
+  color: var(--ink);
+  font-weight: 550;
+}
+.source-record-links {
+  margin-top: 10px;
+}
+.directory-section {
+  margin-top: 28px;
+  padding: 24px;
+}
+.directory-section > .list-heading {
+  margin: 9px 0 8px;
+}
+.directory-description {
+  max-width: 870px;
+}
+.directory-group h3 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  font-weight: 550;
+  letter-spacing: -0.3px;
+  margin: 20px 0 10px;
+}
+.directory-group h3 svg,
+.directory-top svg {
+  color: var(--purple);
+}
+.directory-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+.directory-item {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 0;
+  padding: 16px;
+}
+.directory-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+.directory-top strong {
+  font-size: 15px;
+  font-weight: 550;
+  letter-spacing: -0.4px;
+}
+.directory-item small {
+  margin-top: auto;
+  padding-top: 5px;
+}
+.submission-fields {
+  border-block: 1px solid var(--line);
+  padding: 12px 0;
+  margin: 16px 0;
+}
+.submission-fields summary {
+  cursor: pointer;
+}
+.submission-fields .field {
+  margin: 6px 0 12px;
+}
+.export-preview {
+  justify-content: center;
+  width: 100%;
+  margin-top: 10px;
+}
+.download-note {
+  text-align: center;
+}
+.report-page .report-heading .btn:disabled {
+  cursor: not-allowed;
+}
+@media (max-width: 960px) {
+  .directory-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 640px) {
+  .directory-section {
+    padding: 16px;
+  }
+  .directory-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 8px;
+  }
+  .directory-item {
+    padding: 13px;
+  }
+}

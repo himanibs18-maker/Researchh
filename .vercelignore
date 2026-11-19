@@ -1,0 +1,9 @@
+node_modules
+.checks
+.agon-env
+.git
+.env.local
+.env.*.local
+scripts
+supabase
+*.log

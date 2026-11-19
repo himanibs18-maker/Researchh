@@ -1,0 +1,150 @@
+﻿Section,Content
+"title","Scientific Claim and Citation Verification Report"
+"heading","Sleep, learning & memory"
+"body","Formal report submission
+Report publisher: Research
+Report reference: RES-A258D5A1-0B16-4B22-8DFD-560C40000101
+Issue date (UTC): 2026-11-19T12:42:39.715Z
+Review created: 2026-11-19T07:28:31.060Z
+Submission type: Curated educational example
+Submitted by: Not supplied
+Institution: Not supplied
+Submitted to: Not specified
+Review status: Complete"
+"body","Document: sleep-and-learning-review.pdf
+Original document publisher (submitter-supplied): Not supplied
+Method: Curated educational sample · published abstract review
+6 detected claims · 2 unique sources · 6 source checks"
+"heading","1. Executive summary"
+"body","This submission reviews 6 detected claim(s) against 2 distinct scholarly record(s). It records 6 database checks, including 0 unavailable lookup(s). All findings and unresolved items are included, irrespective of display filters."
+"heading","2. Objectives and methodology"
+"body","Objective: establish the identity of cited publications and assess how their available evidence relates to the submitted statements. This curated example uses real published abstracts and illustrative statements. Method recorded for this review: Curated educational sample · published abstract review. A matching DOI is not evidence of claim support. Publisher names are taken from retrieved metadata, not inferred from a journal or database name."
+"body","Databases actually checked: Crossref, OpenAlex, Semantic Scholar. Additional discovery resources in the website directory are not part of this audit unless explicitly listed."
+"heading","3. Findings by classification"
+"body","Supported: 1"
+"body","Partially Supported: 1"
+"body","Unsupported: 1"
+"body","Contradictory: 1"
+"body","Possibly Outdated: 1"
+"body","Needs Review: 1"
+"sub","Contradicted findings (evidence against the claim)"
+"sub","C002 · Contradictory"
+"body","Longer intervals between study sessions always improve final retention."
+"body","Assessment: The universal claim conflicts directly with the observed pattern. In Cepeda and colleagues’ study, increasing the spacing helped only up to a point; further increases reduced performance at a given test delay."
+"body","Method: Curated abstract review. Confidence: Not assessed."
+"body","Evidence excerpt: “At any given test delay, an increase in the interstudy gap at first increased, and then gradually reduced, final test performance.”"
+"body","Sources: [2] Spacing Effects in Learning (2008). Publisher: SAGE Publications. https://doi.org/10.1111/j.1467-9280.2008.02209.x"
+"sub","Possibly outdated information"
+"sub","C003 · Possibly Outdated"
+"body","Passive protection from interference is the sole accepted explanation of sleep-related memory benefits."
+"body","Assessment: The review explicitly contrasts earlier passive accounts with an active consolidation account. The outdated flag is based on this conceptual revision, not the paper’s age. This is a comparison with the state of knowledge described in 2013, not an exhaustive contemporary review."
+"body","Method: Curated historical comparison. Confidence: Not assessed."
+"body","Evidence excerpt: “Whereas initial theories posed a passive role for sleep enhancing memories by protecting them from interfering stimuli, current theories highlight an active role for sleep in which memories undergo a process of system consolidation during sleep.”"
+"body","Sources: [1] About Sleep's Role in Memory (2013). Publisher: American Physiological Society. https://doi.org/10.1152/physrev.00032.2012"
+"sub","Unverifiable or insufficiently evidenced claims"
+"sub","C004 · Unsupported"
+"body","A fixed one-week study interval improves every learner’s examination score by exactly 40%."
+"body","Assessment: The checked paper reports proportions of the test delay, not a universal 40% increase in examination scores. The specific effect size, fixed interval, and universal population are not substantiated by this abstract."
+"body","Method: Curated abstract review. Confidence: Not assessed."
+"body","Evidence excerpt: “The optimal gap increased as test delay increased.”"
+"body","Sources: [2] Spacing Effects in Learning (2008). Publisher: SAGE Publications. https://doi.org/10.1111/j.1467-9280.2008.02209.x"
+"sub","C006 · Needs Review"
+"body","A student’s sleep stage alone predicts their examination score."
+"body","Assessment: Neither of the two checked abstracts evaluates examination-score prediction from sleep stage alone. The relevant predictive analysis is absent, so this statement cannot be verified from the sample’s evidence set."
+"body","Method: Curated scope check. Confidence: Not assessed."
+"body","Sources: No sufficient source match."
+"sub","Partially supported claims"
+"sub","C005 · Partially Supported"
+"body","Sleep supports memory consolidation and guarantees perfect recall the next day."
+"body","Assessment: The retention benefit is supported, but the published abstract gives no guarantee of perfect next-day recall. The supported mechanism cannot justify the stronger absolute outcome."
+"body","Method: Curated abstract review. Confidence: Not assessed."
+"body","Evidence excerpt: “Over more than a century of research has established the fact that sleep benefits the retention of memory.”"
+"body","Sources: [1] About Sleep's Role in Memory (2013). Publisher: American Physiological Society. https://doi.org/10.1152/physrev.00032.2012"
+"sub","Supported claims"
+"sub","C001 · Supported"
+"body","Sleep supports memory consolidation."
+"body","Assessment: Rasch and Born describe sleep as an active state for consolidating recently encoded memories. The claim is limited to a role in consolidation; it does not promise a particular improvement in recall."
+"body","Method: Curated abstract review. Confidence: Not assessed."
+"body","Evidence excerpt: “Specifically, newer findings characterize sleep as a brain state optimizing memory consolidation, in opposition to the waking brain being optimized for encoding of memories.”"
+"body","Sources: [1] About Sleep's Role in Memory (2013). Publisher: American Physiological Society. https://doi.org/10.1152/physrev.00032.2012"
+"heading","4. Conclusion and recommended review"
+"body","5 of 6 claims require qualification or additional review. Inspect the evidence for C002, C003, C004, C005, C006 before citing these statements. Contradiction is distinct from insufficient evidence; an unavailable record does not establish falsehood."
+"heading","5. References — complete source listing"
+"sub","01. About Sleep's Role in Memory"
+"body","Authors: Björn Rasch, Jan Born
+Publication year: 2013
+Publication venue: Physiological Reviews
+Publisher: American Physiological Society
+DOI: 10.1152/physrev.00032.2012
+Original record: https://doi.org/10.1152/physrev.00032.2012
+Indexed by: Crossref, OpenAlex, Semantic Scholar"
+"body","Publisher metadata: https://api.crossref.org/works/10.1152/physrev.00032.2012"
+"body","Crossref record: https://api.crossref.org/works/10.1152/physrev.00032.2012"
+"body","OpenAlex record: https://openalex.org/W2102656701"
+"body","Semantic Scholar record: https://www.semanticscholar.org/paper/c201cff713db94cd98fcd1fb1aea2b00e0299307"
+"body","Available abstract: Over more than a century of research has established the fact that sleep benefits the retention of memory. In this review we aim to comprehensively cover the field of “sleep and memory” research by providing a historical perspective on concepts and a discussion of more recent key findings. Whereas initial theories posed a passive role for sleep enhancing memories by protecting them from interfering stimuli, current theories highlight an active role for sleep in which memories undergo a process of system consolidation during sleep. Whereas older research concentrated on the role of rapid-eye-movement (REM) sleep, recent work has revealed the importance of slow-wave sleep (SWS) for memory consolidation and also enlightened some of the underlying electrophysiological, neurochemical, and genetic mechanisms, as well as developmental aspects in these processes. Specifically, newer findings characterize sleep as a brain state optimizing memory consolidation, in opposition to the waking brain being optimized for encoding of memories. Consolidation originates from reactivation of recently encoded neuronal memory representations, which occur during SWS and transform respective representations for integration into long-term memory. Ensuing REM sleep may stabilize transformed memories. While elaborated with respect to hippocampus-dependent memories, the concept of an active redistribution of memory representations from networks serving as temporary store into long-term stores might hold also for non-hippocampus-dependent memory, and even for nonneuronal, i.e., immunological memories, giving rise to the idea that the offline consolidation of memory during sleep represents a principle of long-term memory formation established in quite different physiological systems."
+"sub","02. Spacing Effects in Learning"
+"body","Authors: Nicholas J. Cepeda, Edward Vul, Doug Rohrer, John T. Wixted, Harold Pashler
+Publication year: 2008
+Publication venue: Psychological Science
+Publisher: SAGE Publications
+DOI: 10.1111/j.1467-9280.2008.02209.x
+Original record: https://doi.org/10.1111/j.1467-9280.2008.02209.x
+Indexed by: Crossref, OpenAlex"
+"body","Publisher metadata: https://api.crossref.org/works/10.1111/j.1467-9280.2008.02209.x"
+"body","Crossref record: https://api.crossref.org/works/10.1111/j.1467-9280.2008.02209.x"
+"body","OpenAlex record: https://openalex.org/W2169419728"
+"body","Available abstract: To achieve enduring retention, people must usually study information on multiple occasions. How does the timing of study events affect retention? Prior research has examined this issue only in a spotty fashion, usually with very short time intervals. In a study aimed at characterizing spacing effects over significant durations, more than 1,350 individuals were taught a set of facts and—after a gap of up to 3.5 months—given a review. A final test was administered at a further delay of up to 1 year. At any given test delay, an increase in the interstudy gap at first increased, and then gradually reduced, final test performance. The optimal gap increased as test delay increased. However, when measured as a proportion of test delay, the optimal gap declined from about 20 to 40% of a 1-week test delay to about 5 to 10% of a 1-year test delay. The interaction of gap and test delay implies that many educational practices are highly inefficient."
+"heading","Appendix A. Complete source-check audit"
+"sub","1. Crossref — DOI matched"
+"body","Query: 10.1152/physrev.00032.2012
+Checked: 2026-11-19
+Records: 10.1152/physrev.00032.2012"
+"sub","2. OpenAlex — DOI matched"
+"body","Query: 10.1152/physrev.00032.2012
+Checked: 2026-11-19
+Records: 10.1152/physrev.00032.2012"
+"sub","3. Semantic Scholar — DOI matched"
+"body","Query: 10.1152/physrev.00032.2012
+Checked: 2026-11-19
+Records: 10.1152/physrev.00032.2012"
+"sub","4. Crossref — DOI matched"
+"body","Query: 10.1111/j.1467-9280.2008.02209.x
+Checked: 2026-11-19
+Records: 10.1111/j.1467-9280.2008.02209.x"
+"sub","5. OpenAlex — DOI matched"
+"body","Query: 10.1111/j.1467-9280.2008.02209.x
+Checked: 2026-11-19
+Records: 10.1111/j.1467-9280.2008.02209.x"
+"sub","6. Semantic Scholar — No match"
+"body","Query: 10.1111/j.1467-9280.2008.02209.x
+Checked: 2026-11-19
+Records: None
+Note: The DOI lookup returned HTTP 404. This does not invalidate the publication."
+"heading","Appendix B. Detected citations"
+"body","DOI: 10.1152/physrev.00032.2012"
+"body","DOI: 10.1111/j.1467-9280.2008.02209.x"
+"heading","Appendix C. Images, graphs and provenance"
+"sub","F001 · Image · Page 2"
+"body","Caption: Figure 1. Matplotlib line plot example, reproduced without alteration. Source: https://matplotlib.org/stable/_images/sphx_glr_simple_plot_001.png Credit: Matplotlib Development Team. Gallery example: Simple plot.
+Extracted raster image. The fingerprint covers decoded RGBA pixels, not the complete PDF.
+Declared source: https://matplotlib.org/stable/_images/sphx_glr_simple_plot_001.png"
+"body","RGBA pixel SHA-256: 5c8df8e4e733e794e0715a78d287701409f54900cbebe31f937b6447427b0580 (640 × 480)"
+"sub","Current provenance assessment: Exact pixel match"
+"body","The manuscript asset matches the retrieved reference file or its decoded pixels. This is evidence of reuse of that asset, not proof of first publication, licensing, or absence of prior editing."
+"body","Attribution checked: https://matplotlib.org/stable/_images/sphx_glr_simple_plot_001.png"
+"body","Located source: https://matplotlib.org/stable/_images/sphx_glr_simple_plot_001.png"
+"body","Compared asset: https://matplotlib.org/stable/_images/sphx_glr_simple_plot_001.png"
+"body","Reference fingerprint: 5c8df8e4e733e794e0715a78d287701409f54900cbebe31f937b6447427b0580"
+"body","Checked at: 2026-11-19T11:50:55.689Z"
+"body","Repository comparison: Dimensions and decoded RGBA pixel fingerprint match. https://matplotlib.org/stable/_images/sphx_glr_simple_plot_001.png"
+"sub","F002 · Vector page · Page 3"
+"body","Caption: Figure 2. Resolved DOI lookups by database in this review.
+Original page rendering, including vector artwork and text. The page is not a separately embedded image; a visual reference match requires human review.
+Declared source: None supplied"
+"sub","Current provenance assessment: Origin unresolved"
+"body","No source identifier was found in the figure caption. A manuscript citation elsewhere is not evidence of this figure’s origin."
+"heading","Appendix D. Limitations and declaration"
+"body","A DOI match confirms a record, not the truth of a claim. Retrieval is limited to available metadata and abstracts. No match is not proof of falsehood. Publication age alone does not establish that a claim is outdated. Confidence is not a calibrated probability of scientific truth. This report supports, but does not replace, expert review."
+"body","Declaration: this is a system-generated evidence review, not a peer-review certificate or an endorsement by any cited publisher. No human approval or signature is implied."
+"sub","End of formal submission"

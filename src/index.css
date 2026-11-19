@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Match utility typography to the self-hosted fonts from the first release. */
+@theme {
+  --font-sans: "DM Sans", Arial, sans-serif;
+  --font-serif: "Instrument Serif", Georgia, serif;
+  --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+}
